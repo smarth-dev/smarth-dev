@@ -19,6 +19,4 @@
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/rlima01/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+5581933009695)
-
-🌍 Minha pagina
-[![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://smarth.com.br/)
+[![Meu Site](https://img.shields.io/badge/-Portf%C3%B3lio-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://smarth.com.br/)
