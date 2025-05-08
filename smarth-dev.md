@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Rafael Lima
 
-💻 Desenvolvedor Full-Stack | PHP | HTML | CSS | JavaScript | Node.js | React
+💻 Desenvolvedor Full-Stack | Php | Html | Css | JavaScript | Node.js | React
 
 ## 🛠 Tecnologias
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
