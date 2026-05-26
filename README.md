@@ -11,7 +11,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 ## 📊 Estatísticas
-![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=smarth-dev&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## 📌 Projetos Destacados
 - [Projeto Integrador ](https://projeto.smarth.com.br/) - Localizador de Unidade de Pronto Atendimento
