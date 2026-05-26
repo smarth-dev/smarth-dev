@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Rafael Lima
 
-💻 Desenvolvedor Full-Stack | Php | Html | Css | JavaScript | Node.js | React
+💻 Desenvolvedor Full-Stack | Php | Html | Css | JavaScript | Node.js | React | Mysql | Sql Server 
 
 ## 🛠 Tecnologias
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
@@ -13,10 +13,9 @@
 ## 📊 Estatísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-## 📌 Projetos Destacados
-- [Projeto Integrador ](https://projeto.smarth.com.br/) - Localizador de Unidade de Pronto Atendimento
+## 📌 Portfolio
+- [Porfolio ](https://www.smarth.com.br/)
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/rlima01/)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+5581933009695)
-[![Meu Site](https://img.shields.io/badge/-Portf%C3%B3lio-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://smarth.com.br/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+5571991456336)
