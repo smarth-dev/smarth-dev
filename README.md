@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Rafael Lima
 
-💻 Desenvolvedor Full-Stack | Php | Html | Css | JavaScript | Node.js | React | Mysql | Sql Server 
+💻 Desenvolvedor Full-Stack
 
 ## 🛠 Tecnologias
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
@@ -9,9 +9,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-
-## 📊 Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ## 📌 Portfolio
 - [Porfolio ](https://www.smarth.com.br/)
